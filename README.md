@@ -33,6 +33,9 @@ https://frontend-quiz-assignment-tau.vercel.app/
     ```
 4.  Open http://localhost:3000 in your browser.
 
+## ⏱️ Time Spent
+Approx. 8 hours
+
 ## 💭 Assumptions & Decisions
 * Assumed the "Best of Luck" decoration should only appear on the first slide to avoid clutter.
 * Used Framer Motion for the slide effects to match the reference video smooth transition.
