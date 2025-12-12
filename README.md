@@ -21,7 +21,7 @@ https://frontend-quiz-assignment-tau.vercel.app/
 ## ⚙️ Setup Instructions
 1.  Clone the repository:
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/Saral64/frontend-quiz-assignment/tree/main
     ```
 2.  Install dependencies:
     ```bash
